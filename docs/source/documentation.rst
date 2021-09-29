@@ -6,17 +6,17 @@ Documentation Table of Content
 Overview
 ------------
 
-Technical Summary
-Non-Technical Summary
+1. Technical Summary
+2. Non-Technical Summary
 
 Guidelines
 ----------------
 
-Manual Installation
-User Guide
+1. Manual Installation
+2. User Guide
 
 Product Knowledge
 ----------------
 
-Business Needs
-Technical & Design
+1. Business Needs
+2. Technical & Design
