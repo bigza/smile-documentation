@@ -27,5 +27,10 @@ Contents
 .. toctree::
 
    what
-   usage
-   api
+   impact
+   roadmap
+   features
+   architecture
+   methodology
+   stack
+   documentation
