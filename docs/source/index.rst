@@ -26,11 +26,6 @@ Contents
 
 .. toctree::
 
-   What is SMILE?
-   Impact in Numbers
-   Development Roadmap
-   Main Features
-   System Architecture
-   Development Methodology
-   Technology Stack
-   Documentation Table of Content 
+   what
+   usage
+   api
