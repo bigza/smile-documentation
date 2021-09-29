@@ -3,7 +3,7 @@ Documentation Table of Content
 
 .. _installation:
 
-Installation
+Overview
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Guidelines
 ----------------
 
 To retrieve a list of random ingredients,
@@ -31,3 +31,9 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+Product Knowledge
+----------------
+
+To retrieve a list of random ingredients,
+you can use the ``lumache.get_random_ingredients()`` function:
