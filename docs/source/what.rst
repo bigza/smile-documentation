@@ -1,33 +1,10 @@
 What is SMILE?
 =====
 
-.. _installation:
+SMILE is an innovative technology solution to strengthen the immunization vaccine supply chain system in Indonesia. SMILE can provide real-time information on all vaccine stocks along with actual storage temperatures. This real time data can be viewed on a web or application-based dashboard by program managers at districts, province, and national levels. All vaccine stocks are digitized by trained cold chain handlers through a smartphone application and the data is uploaded on a cloud server.
 
-Installation
-------------
+SMILE is developed by local developers, under requirement, supervision, and management by SMILE UNDP Project. SMILE available in Bahasa (Main Language) and supports bilingual (with English). Application development software and supporting software uses open source software. Source Code of SMILE and its releases is owned by UNDP and the intellectual property as well.
 
-To use Lumache, first install it using pip:
+.. note::
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+   This project is under active development.
