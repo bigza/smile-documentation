@@ -7,4 +7,4 @@ SMILE is developed by local developers, under requirement, supervision, and mana
 
 .. note::
 
-   This project is under active development.
+   This project is under active development so it might be unstable.
