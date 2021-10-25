@@ -34,3 +34,4 @@ Contents
    methodology
    stack
    documentation
+   what-does
