@@ -27,6 +27,7 @@ Contents
 .. toctree::
 
    what
+   what-does
    impact
    roadmap
    features
@@ -34,4 +35,4 @@ Contents
    methodology
    stack
    documentation
-   what-does
+   
