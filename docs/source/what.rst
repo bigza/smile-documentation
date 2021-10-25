@@ -5,8 +5,6 @@ SMILE is an innovative technology solution to strengthen the immunization vaccin
 
 SMILE is developed by local developers, under requirement, supervision, and management by SMILE UNDP Project. SMILE available in Bahasa (Main Language) and supports bilingual (with English). Application development software and supporting software uses open source software. Source Code of SMILE and its releases is owned by UNDP and the intellectual property as well.
 
-# Do you agree?
-
 .. note::
 
    This project is under active development so it may be unstable.
