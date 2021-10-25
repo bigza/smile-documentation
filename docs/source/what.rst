@@ -1,4 +1,3 @@
-What is SMILE? jabbar 2
 What is SMILE? 
 =====
 
