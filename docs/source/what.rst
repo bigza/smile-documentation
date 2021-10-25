@@ -1,4 +1,4 @@
-What is SMILE???
+What is SMILE?
 =====
 
 SMILE is an innovative technology solution to strengthen the immunization vaccine supply chain system in Indonesia. SMILE can provide real-time information on all vaccine stocks along with actual storage temperatures. This real time data can be viewed on a web or application-based dashboard by program managers at districts, province, and national levels. All vaccine stocks are digitized by trained cold chain handlers through a smartphone application and the data is uploaded on a cloud server.
