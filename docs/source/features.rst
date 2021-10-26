@@ -40,7 +40,7 @@ Main Features
 
 **2.	Order Management**
 -----
-   **a.  Covid**
+   **a.  COVID19**
    [insert image here]
    
    **b.  Routine Immunization**
@@ -76,6 +76,58 @@ Main Features
          * - Grey dot
            - Unknown
            - Indicates the temperature in the vaccine storage is unknown because the installed device does not transmit information
+
+**3. Dashboard**
+-----
+   **a. COVID19**
+
+      [insert image here]
+      
+      We may examine detailed statistical data on the total distribution of Covid-19 vaccinations in the Covid-19 Inventory Dashboard. The data shown is real-time data from the Indonesian Ministry of Health, vaccination warehouses, Provincial Health Offices, City District Health Offices, and Community Health Centers.
+
+      Total receipts, returns, distributions, distribution returns, total disposals, total consumption, and remaining vaccine supply are all displayed on this dashboard. There is a filter option that allows us to search by time, material tag, material type, material name, province name, city district, and health facility. Reports displayed in this dashboard can be exported to make it easier for users to analyze the data.
+   
+   **b. Routine Immunization**
+      
+      [insert image here]
+      
+      All data displayed in the Covid dashboard is also contained in the routine dashboard. The difference is that the routine dashboard displays other routine vaccines such as BCG, polio, diphtheria, and so on. This routine vaccination dashboard also shows overview data such as refrigerator temperature for vaccine storage, stock activity, leveling entity, and other information. 
+
+**4. Report**
+-----
+   [insert image here]
+   The SMILE dashboard can display comprehensive reports on all types of vaccine transactions with category-based filter options, so that reports can be tailored to the user's wishes. In general, vaccine transaction reports can be viewed as a whole, per material, per entity and per location. In this case the report will show the amount of existing stock, expenses, receipts, disposal to returns. 
+
+   The reports available in this report feature include:
+    -	Consumption report
+    -	SBBK report
+    -	Log book report
+    -	Transaction report
+    -	Stock overview report
+    -	Asset report
+    -	Filter/search report based on category
+    -	Export report (inventory, order, asset, master data)
+
+**5. Vaccine Planning**
+-----
+   [insert image here]
+
+   The District/City Health Office uses the Annual Planning function to calculate vaccination requirements and routine immunization logistics for one year. Typically, this calculation is performed toward the end of the year (2021) for the requirements of the following year (2022).
+
+   Calculation of vaccine needs & logistics is measured from the number of vaccination targets consisting of live births, surviving infants, infants under two years of age, 1, 2, 5, and 6-grade students, and women of childbearing age (including pregnant women) multiplied by the number administration of each vaccine, then divided by the index of the use of each vaccine.
+
+   ``Number of Needs = (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)``
+
+   The Annual Planning for the next vaccine distribution including:
+    -	Configuration management
+    -	Conversion table
+    -	Create forecast bottom up
+    -	List, detail publish, adjust, delete forecast
+    -	Realization management
+
+
+
+
 
 
 
