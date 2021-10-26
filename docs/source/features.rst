@@ -116,7 +116,8 @@ Main Features
 
    Calculation of vaccine needs & logistics is measured from the number of vaccination targets consisting of live births, surviving infants, infants under two years of age, 1, 2, 5, and 6-grade students, and women of childbearing age (including pregnant women) multiplied by the number administration of each vaccine, then divided by the index of the use of each vaccine.
 
-   Number of Needs = (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)
+   .. block::
+      Number of Needs = (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)
 
    The Annual Planning for the next vaccine distribution including:
     -	Configuration management
