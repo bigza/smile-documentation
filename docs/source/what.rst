@@ -15,9 +15,9 @@ SMILE can provide real-time information on all vaccine stocks along with actual 
 
 SMILE 2.0  is developed by local developers, under requirement, supervision, and management by SMILE UNDP Project. There are three major features in SMILE:
 
-SMILE Mobile Inventory: It is used to view the amount of vaccine stock, report out vaccines, report damaged or expired vaccines, send and receive vaccine orders, and monitor vaccine storage
-SMILE Website Dashboard: This dashboard is implemented to data visualization of vaccine distribution throughout Indonesia, explained with details of existing vaccine conditions
-SMILE Mobile Dashboard: The function of this feature is to view vaccine distribution data and storage device data, to monitor vaccine temperatures throughout Indonesia via mobile devices
+1. SMILE Mobile Inventory: It is used to view the amount of vaccine stock, report out vaccines, report damaged or expired vaccines, send and receive vaccine orders, and monitor vaccine storage
+2. SMILE Website Dashboard: This dashboard is implemented to data visualization of vaccine distribution throughout Indonesia, explained with details of existing vaccine conditions
+3. SMILE Mobile Dashboard: The function of this feature is to view vaccine distribution data and storage device data, to monitor vaccine temperatures throughout Indonesia via mobile devices
 
 SMILE 2.0 available in Bahasa (Main Language) and supports bilingual (with English). Application development software and supporting software uses open source software. Source Code of SMILE 2.0 and its releases is owned by UNDP and the intellectual property as well.
 
