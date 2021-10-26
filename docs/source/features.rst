@@ -67,7 +67,7 @@ Main Features
          * - blue dot
            - Low
            - Indicates that the temperature in the vaccine storage is below the threshold of 2 degrees Celsius
-         * - (&#x1F534;)
+         * - red dot
            - High
            - Indicates that the temperature in the vaccine storage is above the threshold of 8 degrees Celsius
          * - Green dot
