@@ -11,10 +11,11 @@ Main Features
     - Conduct a "local transfer"  of stock from the Puskesmas. District to  Sub-District Puskesmas  through the "Enter Stock Amount" feature
     - Logical adjustment of  inventory data on an entity (sub-district health  center / sub-district health center) and an entity  group (accumulated  health center in the sub district)
     - Perform filter / search On all features in the  inventory (See Stock, Enter Amount of Stock,  Input Expenses) when  selecting Vaccines
-    - View summary chart of all statuses: 
-     -	Display status percentage (normal, max, min  and out of stock) 
-     -	Total items from many entities 
-     -	Total items in each status 
-     -	Clickable to change the list 
-     -	Affected by inventory filters
+    - View summary chart of all statuses:
+        -	Display status percentage (normal, max, min  and out of stock) 
+        -	Total items from many entities 
+        -	Total items in each status 
+        -	Clickable to change the list 
+        -	Affected by inventory filters
+
 
