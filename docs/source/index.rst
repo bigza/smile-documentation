@@ -28,7 +28,7 @@ Contents
 
    what
    what-does
-   5 transaction
+   transaction
    impact
    roadmap
    features
