@@ -9,7 +9,7 @@ The Ministry of Health, supported by UNDP, has developed an information system t
 
 SMILE is an innovative technology solution to strengthen the immunization vaccine supply chain system in Indonesia. It ensures that safe and effective vaccines are available to all children wherever and whenever they are. The goal is to implement this immunization vaccine supply chain system across all 34 provinces in Indonesia, strengthening the public health system and acting as a catalyst to achieve the health-related targets of the 2030 Agenda for Sustainable Development which is good health and well-being for all at all ages. 
 
-![SMILE Image 1](https://user-images.githubusercontent.com/93126007/138806784-d8a7bbfd-cdb0-44a7-bdc3-2ecf7a58c372.jpg)
+![SMILE Image 1](https://user-images.githubusercontent.com/93126007/138809034-223009b3-da65-41bc-b13b-715508f096e0.png)
 
 SMILE can provide real-time information on all vaccine stocks along with actual storage temperatures. This real time data can be viewed on a web or application-based dashboard by program managers at districts, province, and national levels. All vaccine stocks are digitized by trained cold chain handlers through a smartphone application and the data is uploaded on a cloud server.
 
