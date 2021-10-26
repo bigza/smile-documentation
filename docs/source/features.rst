@@ -40,10 +40,10 @@ Main Features
 
 **2.	Order Management**
 -----
-   **a. Covid**
+   **a.  Covid**
    [insert image here]
    
-   **b. Routine Immunization**
+   **b.  Routine Immunization**
    [insert image here]
       The order management feature for both routine vaccines and Covid19 vaccines displays all transactions made in the order process. In this case, health workers place orders and receive orders (for purchase) of vaccines. Users can also track the ordering process, for example when there is a mismatch in the quantity along with the reason. Health workers can make orders with the optimal number of orders according to system recommendations. Order management also functions as an update of the amount of stock in a facility if there is a change when there is an order and stock delivery. In this feature, we can see the number of vaccines sent and received. Monitor the process of purchasing vaccines, purchase history to export order data.
       Some of the main features of Order and fulfillment management:
@@ -54,7 +54,7 @@ Main Features
       -	Order tracking history
       -	QR code for VIAL
    
-   **c. Temperature Logger Monitoring**
+   **c.  Temperature Logger Monitoring**
       [insert image here]
       Temperature Logger monitors the temperature in the refrigerator in real-time and sees how the condition of the refrigerator, battery capacity, battery voltage, and views temperature history for a certain period. Health officers periodically check temperature compliance and asset status. Through this function, health officers can monitor whether the refrigerator is functioning properly and does not experience problems such as power failures, malfunctions, etc. This feature monitors the temperature 24 hours a day and the sensor inside the refrigerator transmits signals every 10 minutes to the application.
 
