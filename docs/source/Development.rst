@@ -31,10 +31,10 @@ Development Roadmap
  In the third phase, the goals of the project is to enhance the system through software function leverage in terms of scalability (e.g. increasing number of facilities, additional modality for national flow), interoperability between information systems (owned by Ministries, vaccine manufacturers/private sector, sub-national level), Internet of Things (IoT) technology, and consequences of functions such as software maintenance, user trainings, troubleshooting etc.
 
  Output:
-    - Software enhancement on the national module of vaccine planning and/or forecasting (web-based) to facilitate the generation of accurate vaccine projections for better efficiencies.
-    - Software enhancement for dashboard covid
-    - Software enhancement on customized reporting (web-based) to facilitate the generation and production of reports and graphical data presentation form database engine
-    - Software enhancement to deploy alternate Remote Temperature Monitoring (RTM) devices that will transmit and record the temperature in 600 facilities (from 100 facilities in original contract) in accordance with the Indonesian FDA regulation.
+   - Software enhancement on the national module of vaccine planning and/or forecasting (web-based) to facilitate the generation of accurate vaccine projections for better efficiencies.
+   - Software enhancement for dashboard covid
+   - Software enhancement on customized reporting (web-based) to facilitate the generation and production of reports and graphical data presentation form database engine
+   - Software enhancement to deploy alternate Remote Temperature Monitoring (RTM) devices that will transmit and record the temperature in 600 facilities (from 100 facilities in original contract) in accordance with the Indonesian FDA regulation.
 
  .. image:: images/Development-3.png
   :width: 700
