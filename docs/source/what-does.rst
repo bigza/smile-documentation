@@ -1,7 +1,7 @@
 What Does SMILE Do?
 =====
 
-.. image:: images\what-is-smile-2.png
+.. image:: images/what-is-smile-2.png
   :width: 400
 
 .. _installation:
