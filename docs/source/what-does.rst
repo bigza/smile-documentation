@@ -6,7 +6,7 @@ What Does SMILE Do?
 
 .. _installation:
 
-Installation
+Installations
 ------------
 
 To use Lumache, first install it using pip:
