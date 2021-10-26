@@ -33,8 +33,8 @@ Contents
    benefit
    impact
    Development
-   roadmap
    features
+   roadmap
    architecture
    methodology
    stack
