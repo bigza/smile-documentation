@@ -118,7 +118,9 @@ Main Features
    
    .. list-table::
       :widths: 100
-      Number of Needs = (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)
+      :header-rows: 0
+
+      * - Number of Needs = (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)
    
    The Annual Planning for the next vaccine distribution including:
     -	Configuration management
