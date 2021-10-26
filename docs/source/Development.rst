@@ -3,6 +3,7 @@ Development Roadmap
 
 .. image:: images/Development-1.png
   :width: 700
+  style="float:left";
 
 **1st Phase**
 -----
