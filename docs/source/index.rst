@@ -34,8 +34,8 @@ Contents
    impact
    Development
    features
-   roadmap
    architecture
+   roadmap
    methodology
    stack
    documentation
