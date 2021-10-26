@@ -2,11 +2,11 @@ What Does SMILE Do?
 =====
 
 .. image:: images/what-is-smile-2.png
-  :width: 00
+  :width: 400
 
 .. _installation:
 
-Installations
+Installation
 ------------
 
 To use Lumache, first install it using pip:
