@@ -30,6 +30,7 @@ Contents
    what-does
    transaction
    supply chain
+   benefit
    impact
    roadmap
    features
