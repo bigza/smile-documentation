@@ -11,13 +11,6 @@ System architecture describes how each component of the applications interact wi
 Mobile Application
 ----- 
 Application for the end user (medical facility / puskesmas) can monitor and manage the stock  management on their facility. 
-.. list-table:: Technology 
-   :widths: 25 25
-   :header-rows: 0
-
-   * - .. image:: images/what-is-smile-1.png
-  :width: 100
-     - Low
 
  Technology 
  Front-end React Native 
@@ -25,6 +18,7 @@ Application for the end user (medical facility / puskesmas) can monitor and mana
 Website Application
 -----
 Application for the head role (dinkes) of end users (medical facility / puskesmas) to monitor and  distribute the supply chain of the inventory to medical facilities. 
+
  Technology 
  Front-end React.js 
  Framework Next.js 
@@ -44,6 +38,7 @@ Kubernetes is used for container orchestration for every service used in the app
 Supply Chain Management (API) 
 -----
 Supply Chain Management API handles the process which includes but not limited to transactions  in every medical facility, handling requests from mobile and website applications. 
+
    Technology 
    Back-end Node.js 
    Framework Express.js 
@@ -51,6 +46,7 @@ Supply Chain Management API handles the process which includes but not limited t
 Cold Chain Management (API) 
 -----
 Cold Chain Management API handles the process of requests from cold chain sensors through  the API or other channels 
+
    Technology 
    Back-end Node.js
    Framework Express.js 
@@ -58,6 +54,7 @@ Cold Chain Management API handles the process of requests from cold chain sensor
 Logs (API) 
 -----
 Logs API is a service which handles every log needed by the system including but not limited to:  system error log, debug log, informational log, etc. 
+
    Technology 
    Back-end Node.js 
    Framework Express.js 
@@ -65,7 +62,8 @@ Logs API is a service which handles every log needed by the system including but
 Queue (API) 
 -----
 Queue API is a service which handles queuing for system needs, including but not limited to:  processing the requests from the cold chain, handling the queuing for notifications, etc.  
-Technology 
+
+   Technology 
    Back-end Node.js 
    Framework Express.js 
    Messaging Rabbit MQ 
@@ -73,6 +71,7 @@ Technology
 Notification (API) 
 -----
 Notification API is a service which handles notifications for every user, used for alarming the  expected user about the inventory and cold chain sensors. 
+
    Technology 
    Back-end Node.js 
    Framework Express.js
@@ -80,18 +79,21 @@ Notification API is a service which handles notifications for every user, used f
 MySQL (Database) 
 -----
 MySQL is used for databases as its capability to handle many transactions, and is good at  OLAP/OLTP systems which have proof for its read speed capability. 
+
    Technology 
    Database MySQL 
 
 Redis (Cache) 
 -----
 Redis is used for backend caching to fetch the data faster than querying a database. 
+
    Technology 
    Database Redis 
 
 Rabbit MQ (Message Queuing) 
 -----
 Rabbit MQ is used for queuing messages used by queue service. 
+
    Technology 
    Message Broker Rabbit MQ 
 
