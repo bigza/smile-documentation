@@ -11,15 +11,15 @@ System architecture describes how each component of the applications interact wi
 Mobile Application
 ----- 
 Application for the end user (medical facility / puskesmas) can monitor and manage the stock  management on their facility. 
-   Technology 
-   Front-end React Native 
+ Technology 
+ Front-end React Native 
 
 Website Application
 -----
 Application for the head role (dinkes) of end users (medical facility / puskesmas) to monitor and  distribute the supply chain of the inventory to medical facilities. 
-   Technology 
-   Front-end React.js 
-   Framework Next.js 
+ Technology 
+ Front-end React.js 
+ Framework Next.js 
 
 SSL / TLS
 ----- 
