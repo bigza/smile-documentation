@@ -2,6 +2,7 @@ Development Methodology
 =====
 
 SMILE is developed using Agile Methodology. Agile methodology is a process framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible value. The value given by scrum methodology is courage, focus, commitment, respect and openness. 
+
 With the following details below:
 1.	Courage - people in team should have the courage to do the right thing and work on tough problem
 2.	Focus - We will develop the application with a focused and targeted for every need that are available
