@@ -3,7 +3,7 @@ Main Features
 
 **1.	Inventory Management**
 -----
-      .. image:: images/what-is-smile-1.png 
+   .. image:: images/what-is-smile-1.png 
       :width: 100 
    .. image:: images/what-is-smile-2.png 
       :width: 100
