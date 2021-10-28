@@ -11,6 +11,14 @@ System architecture describes how each component of the applications interact wi
 Mobile Application
 ----- 
 Application for the end user (medical facility / puskesmas) can monitor and manage the stock  management on their facility. 
+.. list-table:: Technology 
+   :widths: 25 25
+   :header-rows: 0
+
+   * - .. image:: images/what-is-smile-1.png
+  :width: 100
+     - Low
+
  Technology 
  Front-end React Native 
 
@@ -23,19 +31,19 @@ Application for the head role (dinkes) of end users (medical facility / puskesma
 
 SSL / TLS
 ----- 
-   The communication between the front-end application with the backend application is encrypted  through Secure Socket Layer (SSL) with HTTPS protocol. 
+The communication between the front-end application with the backend application is encrypted  through Secure Socket Layer (SSL) with HTTPS protocol. 
 
 Cloudflare WAF (Web Application Firewall)
 -----
-   The data sent to the backend application is filtered by cloudflare WAF for protection against DDos  or other unauthorized attacks.
+The data sent to the backend application is filtered by cloudflare WAF for protection against DDos  or other unauthorized attacks.
 
 Kubernetes Cluster 
 -----
-   Kubernetes is used for container orchestration for every service used in the applications.
+Kubernetes is used for container orchestration for every service used in the applications.
 
 Supply Chain Management (API) 
 -----
-   Supply Chain Management API handles the process which includes but not limited to transactions  in every medical facility, handling requests from mobile and website applications. 
+Supply Chain Management API handles the process which includes but not limited to transactions  in every medical facility, handling requests from mobile and website applications. 
    Technology 
    Back-end Node.js 
    Framework Express.js 
