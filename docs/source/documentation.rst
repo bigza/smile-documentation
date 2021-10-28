@@ -13,6 +13,7 @@ Guidelines
 ----------------
 
 1. Manual Installation
+- [[Google Kubernetes Engine] Installation Manual SMILE](https://docs.google.com/document/d/1dKxWuo63Lb0rZZ1MBMQQTc834hXWKfTTffBJXJxu5sg/edit?usp=sharing )
 2. User Guide
 
 Product Knowledge
