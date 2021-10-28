@@ -118,7 +118,8 @@ Main Features
    
    .. code-block:: console
 
-      Number of Needs = (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)
+      **Number of Needs =** 
+      (Number of Targets * Number of Vaccination Administration) / (Index of Vaccine Use)
    
 
    The Annual Planning for the next vaccine distribution including:
