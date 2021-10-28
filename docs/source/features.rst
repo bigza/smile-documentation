@@ -11,6 +11,7 @@ Main Features
 The objective of the inventory feature is to display the information of entity stock and all transactions (batch, material status, transaction date) in every entity group from District to Sub-District Puskesmas. In this feature, health officers can update manually the number of each vaccine. 
    
 This inventory feature consist of several functionality including:
+
 - View the list of Sub District Puskesmas
 - Displays the Puskesmas  entity stock information.  Districts and Puskesmas entity groups throughout  the Districts on each inventory transaction- Seeing the stock by  leveling entity groups of  Puskesmas from District  to Sub-District
 - Conduct a "local transfer"  of stock from the Puskesmas. District to  Sub-District Puskesmas  through the "Enter Stock Amount" feature
@@ -46,12 +47,14 @@ This inventory feature consist of several functionality including:
 **2.	Order Management**
 -----
 **a.  COVID19**
+
 .. image:: images/cvd-01.png 
    :width: 300 
 .. image:: images/cvd-02.png 
    :width: 300
    
 **b.  Routine Immunization**
+
 .. image:: images/imm-01.png 
    :width: 300 
 .. image:: images/imm-02.png 
@@ -68,6 +71,7 @@ Some of the main features of Order and fulfillment management:
 -	QR code for VIAL
    
 **c.  Temperature Logger Monitoring**
+
 .. image:: images/tlm-01.png 
    :width: 200 
 .. image:: images/tlm-02.png 
@@ -118,6 +122,7 @@ All data displayed in the Covid dashboard is also contained in the routine dashb
 
 **4. Report**
 -----
+
 .. image:: images/report.png 
    :width: 700 
 
@@ -135,6 +140,7 @@ The reports available in this report feature include:
 
 **5. Vaccine Planning**
 -----
+
 .. image:: images/vaccine-planning.png 
    :width: 700 
 
