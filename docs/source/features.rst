@@ -4,8 +4,8 @@ Main Features
 **1.	Inventory Management**
 -----
    <p float="left">
-   <img src="images/inv-01.png" width="100" />
-   <img src="images/inv-02.png" width="100" /> 
+   <.. image:: images/what-is-smile-1.png :width: 100 /> 
+   <.. image:: images/what-is-smile-2.png :width: 100 /> 
    </p>
 
    The objective of the inventory feature is to display the information of entity stock and all transactions (batch, material status, transaction date) in every entity group from District to Sub-District Puskesmas. In this feature, health officers can update manually the number of each vaccine. This inventory feature consist of several functionality including:
