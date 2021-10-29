@@ -63,24 +63,34 @@ Product Knowledge
 
 1. Business Needs
 
-- Business Requirement Document SMILE v1
-- Business Requirement Document SMILE v2
-- Business Requirement Document SMILE v3
+- `Business Requirement Document SMILE v1 <https://drive.google.com/file/d/1pARJ6-jR_HsDY5SpTPgrLDO9ub_lcLFX/view?usp=sharing>`_
+- `Business Requirement Document SMILE v2 <https://drive.google.com/file/d/1-uXHeS62pHkExe2t8JXXwwThEHkeL4u4/view?usp=sharing>`_
+- `Business Requirement Document SMILE v3 <https://drive.google.com/file/d/1XKTy1JqEw_L9LDVeu2lr735fbn5Li5kC/view?usp=sharing>`_
 
 2. Technical & Design
 
-- System Architecture
-- Data Management Document
-- Mockup
-- Core Transaction Product Backlog
-- Dashboard & Report Product Backlog
-- Dashboard Mobile Product Backlog
-- Source Code
-- SMILE
-- SMILE Training
-- Dashboard Mobile
-- API Documentation
-  `Internal <https://api.smile-indonesia.id/api-docs#/>`_ 
-  External
-- Test Cases
-- Backup & Restore
+- `Internal API - Swagger <>`_
+- `API Documentation SMILE ETL (Biofarma) <https://docs.google.com/document/d/14XQt8I7CJCqsYcfEh8xwlgYAOc6AuLDs/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
+- `API Documentation SMILE ETL (DTO) <https://docs.google.com/document/d/1rTcYh-ngv0e35x6jxQuqRsAmdW_Z3H6H/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
+- `API Documentation SMILE ETL (KPCPEN) <https://docs.google.com/document/d/10QgzUFMF3idNd3mftSbx8V3b9jkXj6gd/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
+- `API Documentation SMILE Live Connection (KPCPEN) <https://docs.google.com/document/d/1ce5eBFa7hmNyyldAUMeV0oRTeIXGHgB_/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
+- `IoT API Documentation <https://docs.google.com/document/d/1vSSDymYyKgqhVOhMj3C9gHrFHUKDoH6R/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
+- `v0.3 - [FASE OKT 20-MAR 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1buzDPcbfTn6488LujA4GAGgJ4pC_3LJaGY2yk3plZT4/edit#gid=1669400692>`_
+- `v0.4 - [Fase APR-DES 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1_mobVQK16gOc4rcFh9-xqCJFNaOW3z0-g2YL9oxgPjo/edit#gid=1669400692>`_
+- `v0.3 - [FASE DEC 20-MAR 21] User Stories - Fase 3 Smile UNDP <https://docs.google.com/spreadsheets/d/1GraVLCE-3M3yhU1eBUvau17LNJI8hODCjXAUOQ6peaQ/edit#gid=1669400692>`_
+- `v0.4 - [FASE APR - DEC 21] User Stories Dashboard Enhancement <https://docs.google.com/spreadsheets/d/1i0rmr-_nIOiigdUwqSMPjvZexxgiT3odD1bJqNz7Rm4/edit#gid=203688542>`_
+- `Dashboard Mobile Product Backlog <https://docs.google.com/spreadsheets/d/142Xfl5tbh5apZzPn8-WHRBVqryv9FEny5YzAhoV-D_Q/edit#gid=2112243867>`_
+- `Core Transaction SMILE Mockup (Figma) <https://www.figma.com/file/ljJGXpfIZJ0xYXaeOecPZt/%F0%9F%92%BC-Store-Smile-v2.0?node-id=0%3A1>`_
+- `Core Transaction SMILE Mockup (Mockup) <https://drive.google.com/drive/folders/16PnQnLV1lhbZEtuDX1c0GzEraZd4NFSU?usp=sharing>`_
+- `Monitor SMILE Mockup (Figma) <https://www.figma.com/file/B6PmlRvL3hWyMGXgWYERLk/%F0%9F%92%BC-Monitor-SMILE-UNDP?node-id=1%3A12>`_
+- `Monitor SMILE Mockup (Google Drive) <https://drive.google.com/drive/folders/1NweHsypukpniTuhoinyXFUMo28H_W0tB?usp=sharing>`_
+- `source-smile-dashboard-mobile-23092021 <>`_
+- `SMILE System Architecture Phase 1-3 <>`_
+- `Role Management v1.4.2 <https://docs.google.com/spreadsheets/d/1xe4QTy1stZz7Q5mduR6w8lbbTel_FEY08zH8fo1eKlE/edit?usp=sharing>`_
+- `Smile Data Management & Security <>`_
+- `Test Case UAT OLTP <>`_
+- `Test Case UAT Dashboard <>`_
+- `Test Case UAT Dashboard Mobile <https://docs.google.com/document/d/1UBb02excfXMFBRyrSKxBBObFJm4847UB/edit>`_
+- `Backup and restore <https://docs.google.com/document/d/1h-1zQ0osdhjDA0CLDH6eIiT6JNPAPyPv9esl-tvCQPg/edit?usp=sharing>`_
+- `Dokumen security test <>`_
+- `Dokumen load test <>`_
