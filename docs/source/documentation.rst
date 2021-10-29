@@ -61,13 +61,18 @@ Guidelines
 Product Knowledge
 ----------------
 
-1. Business Needs
+1. Overview
+
+- `Executive Summary PPT <https://docs.google.com/presentation/d/1-JqU5oAd9VilWLfA17o3OK-IYPxcVjG0/edit#slide=id.p3>`_
+- `Executive Summary Word <https://docs.google.com/document/d/1cSWQDnIFvmx-te_0yB1Q8ealHSXtr1maHmwwBEErUKE/edit#>`_
+
+2. Business Needs
 
 - `Business Requirement Document SMILE v1 <https://drive.google.com/file/d/1pARJ6-jR_HsDY5SpTPgrLDO9ub_lcLFX/view?usp=sharing>`_
 - `Business Requirement Document SMILE v2 <https://drive.google.com/file/d/1-uXHeS62pHkExe2t8JXXwwThEHkeL4u4/view?usp=sharing>`_
 - `Business Requirement Document SMILE v3 <https://drive.google.com/file/d/1XKTy1JqEw_L9LDVeu2lr735fbn5Li5kC/view?usp=sharing>`_
 
-2. Technical & Design
+3. Technical & Design
 
 - `Internal API - Swagger <>`_
 - `API Documentation SMILE ETL (Biofarma) <https://docs.google.com/document/d/14XQt8I7CJCqsYcfEh8xwlgYAOc6AuLDs/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
