@@ -81,7 +81,7 @@ Temperature Logger monitors the temperature in the refrigerator in real-time and
 
 When a problem occurs, the system will automatically give an alarm via SMS to the Puskesmas staff to take protective actions against the vaccine, such as resetting the refrigerator thermostat, or moving the vaccine to a cool box, or temporary refrigerator until the refrigerator temperature returns to normal.
 
-.. image:: images/indicator.png 
+.. image:: images/indicators.png 
    :width: 700 
 
 **3. Dashboard**
