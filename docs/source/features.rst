@@ -81,22 +81,8 @@ Temperature Logger monitors the temperature in the refrigerator in real-time and
 
 When a problem occurs, the system will automatically give an alarm via SMS to the Puskesmas staff to take protective actions against the vaccine, such as resetting the refrigerator thermostat, or moving the vaccine to a cool box, or temporary refrigerator until the refrigerator temperature returns to normal.
 
-.. list-table:: Vaccine Storage Temperature Indicator
-   :widths: 25 25 50
-   :header-rows: 0
-
-   * - blue dot
-     - Low
-     - Indicates that the temperature in the vaccine storage is below the threshold of 2 degrees Celsius
-   * - red dot
-     - High
-     - Indicates that the temperature in the vaccine storage is above the threshold of 8 degrees Celsius
-   * - Green dot
-     - Normal
-     - Indicates the temperature in the vaccine storage is between 2-8 degrees Celsius
-   * - Grey dot
-     - Unknown
-     - Indicates the temperature in the vaccine storage is unknown because the installed device does not transmit information
+.. image:: images/indicator.png 
+   :width: 700 
 
 **3. Dashboard**
 -----
