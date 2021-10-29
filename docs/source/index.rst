@@ -35,7 +35,6 @@ Contents
    Development
    features
    architecture
-   roadmap
    methodology
    stack
    documentation
