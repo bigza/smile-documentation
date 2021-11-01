@@ -27,7 +27,7 @@ Guidelines
  - `Quick Guide COVID_REALOKASI - MOBILE Kako ke Puskesmas (v1.5.6 - 08072021) <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
  - `Quick Guide COVID - WEB (v1.5.7 - 25082021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
  - `Quick Guide OBLIK Mengalokasikan Logistik COVID-19 - WEB (v1.4.2 - 23032021) <https://docs.google.com/presentation/d/1tEUwqk1m618VJUo0GVVla3uhCzpm6rXl/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `Quick Guide RUTIN (v1.2.0 - 25022021 <>`_ 
+ - `Quick Guide RUTIN (v1.2.0 - 25022021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
 
 - Rutin:
  - `[MOBILE] Quick Guide Pengembalian Faskes <https://docs.google.com/presentation/d/1l7oNxDLLxawRHSIbrMCqTbks5OxH_0NE/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
@@ -44,7 +44,7 @@ Guidelines
  - `QUICK GUIDE SMILE 2.0 TAMBAH/KURANGI STOK <https://docs.google.com/presentation/d/1iN76C78Dc1EkpdxbAn2bNmut1PvXB6FQOGoLfPzOrTA/edit#slide=id.geed7668430_0_154>`_ 
 
 - Asset: 
- - `Quick Guide Setup Asset - WEB (v1.1.4 - 22022021) <>`_ 
+ - `Quick Guide Setup Asset - WEB (v1.1.4 - 22022021) <https://docs.google.com/presentation/d/1uslksE7Ss2SaZ5k-OIgA9vGoJ84kyHVi/edit?usp=sharing&ouid=106606527255452371589&rtpof=true&sd=true>`_ 
  - `[MOBILE] Quick Guide Melihat Suhu dan Mengubah Status Coldchain (v1.6.0 - 08092021) <https://docs.google.com/document/d/1ioW0H0I2K79jNjcKXX5ZNDMJ4QgiI6oyA0NYpBhyZXo/edit>`_ 
 
 - Report:
