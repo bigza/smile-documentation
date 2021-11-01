@@ -56,7 +56,7 @@ Guidelines
  - `[Web] User Guide Dashboard Covid 12.08.21 <https://docs.google.com/document/d/1DadIwrF-LYMfYYt3CAVZ3xWaVPx3EjWi/edit#>`_ 
  - `[WEB] User Guide Dashboard Rutin <https://docs.google.com/document/d/1GNT3R4WAM5GiqwvRMu3v1SwDBlT3LJC1/edit#>`_ 
  - `[WEB] Quick Guide Transaksi (v1.6.0 - 12082021) <https://docs.google.com/presentation/d/1n79_EQQF7kQTn6NNsDidBwO6CAdrP39s/edit#slide=id.p1>`_ 
- - `[WEB] Quick Guide Consumed Page <>`_ 
+ - `[WEB] Quick Guide Consumed Page <https://docs.google.com/presentation/d/1e6w_ueWNkfVlLM4Ji2iVcgNpZbFAw50b/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_ 
 
 Product Knowledge
 ----------------
@@ -81,8 +81,8 @@ Product Knowledge
 - `API Documentation SMILE Live Connection (KPCPEN) <https://docs.google.com/document/d/1ce5eBFa7hmNyyldAUMeV0oRTeIXGHgB_/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
 - `IoT API Documentation <https://docs.google.com/document/d/1vSSDymYyKgqhVOhMj3C9gHrFHUKDoH6R/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
 - `v0.3 - [FASE OKT 20-MAR 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1buzDPcbfTn6488LujA4GAGgJ4pC_3LJaGY2yk3plZT4/edit#gid=1669400692>`_
-- `v0.4 - [Fase APR-DES 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1_mobVQK16gOc4rcFh9-xqCJFNaOW3z0-g2YL9oxgPjo/edit#gid=1669400692>`_
-- `v0.3 - [FASE DEC 20-MAR 21] User Stories - Fase 3 Smile UNDP <https://docs.google.com/spreadsheets/d/1GraVLCE-3M3yhU1eBUvau17LNJI8hODCjXAUOQ6peaQ/edit#gid=1669400692>`_
+- `v0.4 - [Fase APR-DES 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1Ck9E78fF2vvw3Q2ACsxbMsMCG0aSMJiEOfFToO5gD9A/edit#gid=2112243867>`_
+- `v0.3 - [FASE DEC 20-MAR 21] User Stories - Fase 3 Smile UNDP <https://docs.google.com/spreadsheets/d/1zKm2qjzsfRp41PocS5rAuT1EZxNPXVXN1PFRCM7K0EI/edit#gid=278140922>`_
 - `v0.4 - [FASE APR - DEC 21] User Stories Dashboard Enhancement <https://docs.google.com/spreadsheets/d/1i0rmr-_nIOiigdUwqSMPjvZexxgiT3odD1bJqNz7Rm4/edit#gid=203688542>`_
 - `Dashboard Mobile Product Backlog <https://docs.google.com/spreadsheets/d/142Xfl5tbh5apZzPn8-WHRBVqryv9FEny5YzAhoV-D_Q/edit#gid=2112243867>`_
 - `Core Transaction SMILE Mockup (Figma) <https://www.figma.com/file/ljJGXpfIZJ0xYXaeOecPZt/%F0%9F%92%BC-Store-Smile-v2.0?node-id=0%3A1>`_
