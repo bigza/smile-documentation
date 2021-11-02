@@ -3,12 +3,6 @@ Documentation Table of Content
 
 .. _installation:
 
-Overview
-------------
-
-1. Technical Summary
-2. Non-Technical Summary
-
 Guidelines
 ----------------
 
