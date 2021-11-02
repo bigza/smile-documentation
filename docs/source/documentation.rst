@@ -1,4 +1,4 @@
-Documentation Table of Content
+SMILE Documentation
 =====
 
 .. _installation:
