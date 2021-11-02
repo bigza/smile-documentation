@@ -17,9 +17,9 @@ Guidelines
  - `Quick Guide Change Password <https://docs.google.com/presentation/d/1xHPzlqHfQNAcgqKcIkR_8gAszCHmiS8L/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_
 
 - COVID-19:
- - `[MOBILE] Quick Guide COVID (v1.5.6 - 06072021 <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[MOBILE] Quick Guide COVID_REALLOCATION - Kako ke Puskesmas (v1.5.6 - 08072021) <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide COVID (v1.5.7 - 25082021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
+ - `[MOBILE] Quick Guide COVID-19 (v1.5.6 - 06072021 <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
+ - `[MOBILE] Quick Guide COVID-19_REALLOCATION - Kako ke Puskesmas (v1.5.6 - 08072021) <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
+ - `[WEB] Quick Guide COVID-19 (v1.5.7 - 25082021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
  - `[WEB] Quick Guide OBLIK ALLOCATES COVID-19 LOGISTICS (v1.4.2 - 23032021) <https://docs.google.com/presentation/d/1tEUwqk1m618VJUo0GVVla3uhCzpm6rXl/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
  - `[WEB] Quick Guide ROUTINE (v1.2.0 - 25022021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
 
@@ -74,8 +74,8 @@ Product Knowledge
 - `API Documentation SMILE ETL (KPCPEN) <https://docs.google.com/document/d/10QgzUFMF3idNd3mftSbx8V3b9jkXj6gd/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
 - `API Documentation SMILE Live Connection (KPCPEN) <https://docs.google.com/document/d/1ce5eBFa7hmNyyldAUMeV0oRTeIXGHgB_/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
 - `IoT API Documentation <https://docs.google.com/document/d/1vSSDymYyKgqhVOhMj3C9gHrFHUKDoH6R/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
-- `v0.3 - [PHASE OKT 20-MAR 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1buzDPcbfTn6488LujA4GAGgJ4pC_3LJaGY2yk3plZT4/edit#gid=1669400692>`_
-- `v0.4 - [PHASE APR-DES 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1Ck9E78fF2vvw3Q2ACsxbMsMCG0aSMJiEOfFToO5gD9A/edit#gid=2112243867>`_
+- `v0.3 - [PHASE OCT 20-MAR 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1buzDPcbfTn6488LujA4GAGgJ4pC_3LJaGY2yk3plZT4/edit#gid=1669400692>`_
+- `v0.4 - [PHASE APR-DEC 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1Ck9E78fF2vvw3Q2ACsxbMsMCG0aSMJiEOfFToO5gD9A/edit#gid=2112243867>`_
 - `v0.3 - [PHASE DEC 20-MAR 21] User Stories - Fase 3 Smile UNDP <https://docs.google.com/spreadsheets/d/1zKm2qjzsfRp41PocS5rAuT1EZxNPXVXN1PFRCM7K0EI/edit#gid=278140922>`_
 - `v0.4 - [PHASE APR - DEC 21] User Stories Dashboard Enhancement <https://docs.google.com/spreadsheets/d/1i0rmr-_nIOiigdUwqSMPjvZexxgiT3odD1bJqNz7Rm4/edit#gid=203688542>`_
 - `Dashboard Mobile Product Backlog <https://docs.google.com/spreadsheets/d/142Xfl5tbh5apZzPn8-WHRBVqryv9FEny5YzAhoV-D_Q/edit#gid=2112243867>`_
