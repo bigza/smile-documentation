@@ -83,7 +83,8 @@ Product Knowledge
 - `Core Transaction SMILE Mockup (Mockup) <https://drive.google.com/drive/folders/16PnQnLV1lhbZEtuDX1c0GzEraZd4NFSU?usp=sharing>`_
 - `Monitor SMILE Mockup (Figma) <https://www.figma.com/file/B6PmlRvL3hWyMGXgWYERLk/%F0%9F%92%BC-Monitor-SMILE-UNDP?node-id=1%3A12>`_
 - `Monitor SMILE Mockup (Google Drive) <https://drive.google.com/drive/folders/1NweHsypukpniTuhoinyXFUMo28H_W0tB?usp=sharing>`_
-- `source-smile-dashboard-mobile-23092021 <>`_
+- `source-smile-12112021 (latest) <https://drive.google.com/drive/folders/1qEwOA5Z6N-cBFhJ8Wn0eBHbW8zjEgEZE?usp=sharing>`_
+- `source-smile-dashboard-mobile-12112021 (latest) <https://drive.google.com/drive/folders/1qEwOA5Z6N-cBFhJ8Wn0eBHbW8zjEgEZE?usp=sharing>`_
 - `SMILE System Architecture Phase 1-3 <>`_
 - `Role Management v1.4.2 <https://docs.google.com/spreadsheets/d/1xe4QTy1stZz7Q5mduR6w8lbbTel_FEY08zH8fo1eKlE/edit?usp=sharing>`_
 - `Smile Data Management & Security <>`_
